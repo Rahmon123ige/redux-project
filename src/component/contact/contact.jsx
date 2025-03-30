@@ -11,7 +11,7 @@ function Contact() {
         </div>
         <div className="row">
             <div className="col-md-5 d-flex justity-content-center">
-                <img src="" alt="" height={'300px'} width={'300px'} />
+                <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/apple_ar.jpg?size=690:388" alt="" height={'300px'} width={'300px'} />
             </div>
             <div className="col-md-6">
                 <form action="">

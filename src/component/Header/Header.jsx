@@ -16,15 +16,15 @@ function Header() {
                     </li>
 
                     <li className="nav-item">
-                        <Link className="nav-link" aria-current='page' to='../Product/Product.jsx'>Product</Link>
+                        <Link className="nav-link" aria-current='page' to='/products'>Product</Link>
                     </li>
 
                     <li className="nav-item">
-                        <Link className="nav-link" aria-current='page' to='../about/About.jsx'>About</Link>
+                        <Link className="nav-link" aria-current='page' to='/about'>About</Link>
                     </li>
 
                     <li className="nav-item">
-                        <Link className="nav-link" aria-current='page' to='../contact/contact.jsx'>Contact Us</Link>
+                        <Link className="nav-link" aria-current='page' to='/contact'>Contact Us</Link>
                     </li>
                 </ul>
                 <CartBtn/>
